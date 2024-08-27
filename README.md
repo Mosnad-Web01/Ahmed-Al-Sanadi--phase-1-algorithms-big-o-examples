@@ -400,5 +400,5 @@ information to digest here! In the next few lessons, we'll practice writing more
 algorithms and talk through how to calculate their time complexity using Big O.
 
 ## Resources
-
+done
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
